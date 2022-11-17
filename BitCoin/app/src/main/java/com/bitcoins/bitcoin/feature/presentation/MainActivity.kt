@@ -1,4 +1,4 @@
-package com.bitcoins.bitcoin
+package com.bitcoins.bitcoin.feature.presentation
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -10,7 +10,7 @@ import androidx.compose.material.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
-import com.bitcoins.bitcoin.ui.theme.BitCoinTheme
+import com.bitcoins.bitcoin.feature.presentation.ui.theme.BitCoinTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

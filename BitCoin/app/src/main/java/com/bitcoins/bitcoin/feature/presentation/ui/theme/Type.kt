@@ -1,4 +1,4 @@
-package com.bitcoins.bitcoin.ui.theme
+package com.bitcoins.bitcoin.feature.presentation.ui.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle
